@@ -4,3 +4,5 @@ My name is Virgilio Jr. Cahucom
 * [@vkahuc](http://github.com/vkahuc)
 ## Sample
 printf("Hello World!");
+## How to Install
+* Step 1: Download the zip file or use git clone 
