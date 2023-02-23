@@ -11,6 +11,7 @@ printf("Hello World!");
 * Step 4: Download the github 
 # New Feature
 * git branch
+* git merge
 
 
 
